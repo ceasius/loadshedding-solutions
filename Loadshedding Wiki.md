@@ -26,7 +26,7 @@ Cost: R880 - R1500
 - Gizzu 8800mAh Mini UPS Dual DC: [https://www.takealot.com/gizzu-8800mah-mini-ups-dual-dc/PLID71930088](https://www.takealot.com/gizzu-8800mah-mini-ups-dual-dc/PLID71930088 "smartCard-inline")
 - Gizzu 17600mAh Router UPS: [https://www.wootware.co.za/gizzu-gup60w-60w-65wh-17600mah-black-mini-poe-dc-ups.html](https://www.wootware.co.za/gizzu-gup60w-60w-65wh-17600mah-black-mini-poe-dc-ups.html "‌")
 
-![](https://trello.com/1/cards/63dbd12e5e9653ad13237f23/attachments/63ee9f4016dacc7d3093c2a4/download/image.png)
+[![](https://trello.com/1/cards/63dbd12e5e9653ad13237f23/attachments/63ee9f4016dacc7d3093c2a4/download/image.png)](https://raw.githubusercontent.com/ceasius/loadshedding-solutions/main/image%20(1).png)
 
 ## Inverter Battery Trolley
 
